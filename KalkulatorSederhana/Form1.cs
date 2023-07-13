@@ -47,11 +47,12 @@ namespace KalkulatorSederhana
 
 		private void btnBagi_Click(object sender, EventArgs e)
 		{
-			int angka1 = Int32.Parse(txt1.Text);
-			int angka2 = Int32.Parse(txt2.Text);
-			int hasil = angka1 / angka2;
+			double angka1 = double.Parse(txt1.Text);
+			double angka2 = double.Parse(txt2.Text);
+			double hasil = angka1 / angka2;
 
 			txt3.Text = hasil.ToString();
+			MessageBox.Show(hasil.ToString());
 		}
 
 		private void btnReset_Click(object sender, EventArgs e)
