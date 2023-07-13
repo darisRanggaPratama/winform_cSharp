@@ -1,0 +1,11 @@
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.pdb
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.AssemblyReference.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.SuggestedBindingRedirects.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Form1.resources
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Properties.Resources.resources
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.GenerateResource.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb
