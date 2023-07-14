@@ -1,0 +1,11 @@
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\bin\Debug\Quisioner.exe.config
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\bin\Debug\Quisioner.exe
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\bin\Debug\Quisioner.pdb
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.csproj.AssemblyReference.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.csproj.SuggestedBindingRedirects.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.MyQuiz.resources
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.Properties.Resources.resources
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.csproj.GenerateResource.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.csproj.CoreCompileInputs.cache
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.exe
+C:\Users\raden\Documents\UploadGithub\cSharp_winforms\Quisioner\obj\Debug\Quisioner.pdb
